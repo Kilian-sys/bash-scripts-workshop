@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, GitHub!"
+echo "Aquest script ha sigut modificat mitjançant un Fork"
