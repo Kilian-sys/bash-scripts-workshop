@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "Sense cometes:"
+echo "\$*: $*"
+echo "\$@: $@"
+echo ""
+echo "Amb cometes dobles:"
+echo "\"\$*\": \"$*\""
+echo "\"\$@\": \"$@\""
+echo ""
+echo "# \$* tracta tots els arguments com una sola string"
+echo "# \$@ manté els arguments separats"
